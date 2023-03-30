@@ -1,2 +1,8 @@
-# CombineMyPDF
-Simple python script that combines all valid PDFs into a single file called 'Combined.pdf'. In case you are not able to combine, use VerifyMyPDF to verify.
+# Python PDF Tools
+A few simple python scripts to make your life a little easier.
+
+Combine all PDF files in a directory using 'Combine.py'
+
+Verify all PDF files in a directory using 'Verify.py'
+
+Verify and move all non-verified PDF files into a seperate folder in a directory using 'VMove.py'
