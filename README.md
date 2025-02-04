@@ -1,12 +1,21 @@
-# Python PDF Tools
-A few simple python scripts to make your life a little easier.
+# 📄 Python PDF Tools
 
-* Combine all PDF files in a directory using 'Combine.py'
+A few simple Python scripts to make your life a little easier.
 
-* Verify all PDF files in a directory using 'Verify.py'
+## 📚 Tools
 
-* Verify and move all non-verified PDF files into a seperate folder in a directory using 'VMove.py'
+* 📑 **Combine all PDF files in a directory** using `CombineMyPDF.py`
+* ✅ **Verify all PDF files in a directory** using `Verify.py`
+* 📂 **Verify and move all non-verified PDF files into a separate folder** in a directory using `VMove.py` if any PDF files are broken.
 
-To use the tools, just download a single script or all of them, drop them in the directory and use CLI to run.
+## 🚀 Usage
 
-Originally used it to sort through a few thousand PDF files, took only a few seconds.
+To use the tools, just download a single script or all of them, drop them in the directory and use the CLI to run.
+
+### Example
+
+```sh
+python CombineMyPDF.py
+```
+
+
